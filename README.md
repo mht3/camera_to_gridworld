@@ -1,5 +1,7 @@
 # camera_to_gridworld
 
+> **_NOTE:_**  Copied From [Tran-Research-Group](https://github.com/Tran-Research-Group)
+
 Pipeline to map a FPV to a top-down gridworld. The model outputs a prediction of whether or not an object is present in a grid-square. Here is a good visualization of the result!
 
 ![Model_Output](https://user-images.githubusercontent.com/60635839/167494500-fca2734f-2055-44e1-aea1-8c04dc44f6cf.png)
